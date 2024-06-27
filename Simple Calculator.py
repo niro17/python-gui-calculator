@@ -96,10 +96,3 @@ for i in range(4):
 
 # Start the main event loop
 root.mainloop()
-
-
-
-
-
-
-
